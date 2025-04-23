@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"aprendendo_sintaxe_java.java_doc"}];updateSearchResults();
